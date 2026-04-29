@@ -17,29 +17,29 @@ const siteConfig: SiteConfig = {
     },
     headerNavLinks: [
         {
-            text: 'Home',
+            text: '首页',
             href: '/'
         },
         {
-            text: 'Projects',
+            text: '翻译',
             href: '/projects'
         },
         {
-            text: 'Blog',
+            text: '博文',
             href: '/blog'
         },
         {
-            text: 'Tags',
+            text: '标签',
             href: '/tags'
         }
     ],
     footerNavLinks: [
         {
-            text: 'About',
+            text: '关于',
             href: '/about'
         },
         {
-            text: 'Contact',
+            text: '联系',
             href: '/contact'
         },
         {
