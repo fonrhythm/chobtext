@@ -3,10 +3,10 @@ import hero from '../assets/images/guideme.jpg';
 import type { SiteConfig } from '../types';
 
 const siteConfig: SiteConfig = {
-    website: 'https://example.com',
+    website: 'https://https://chobtext.pages.dev',
     avatar: {
         src: avatar,
-        alt: 'Ethan Donovan'
+        alt: 'ChobJaii'
     },
     title: 'SomenStjerne',
     subtitle: '对一切保持好奇心和探索欲 分享泰国文化 在我眼里看到的泰国娱乐圈变化',
