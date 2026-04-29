@@ -1,7 +1,6 @@
 ---
 title: 【小说中字】第一章 | Class Crush Crisis 心怀不轨的朋友 / 小心你的好友并不单纯
-description: พื่อนสนิทระวังคิดไม่ซื่อ 暂译名：心怀不轨的朋友 / 小心你的好友并不单纯 
-原著：JittiRain 中文翻译：Chobjaii.
+description: พื่อนสนิทระวังคิดไม่ซื่อ 暂译名：心怀不轨的朋友 / 小心你的好友并不单纯 原著：JittiRain 中文翻译：Chobjaii.
 publishDate: 'Mar 13 2026'
 seo:
   image:
