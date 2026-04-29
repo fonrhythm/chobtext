@@ -22,7 +22,7 @@ const siteConfig: SiteConfig = {
         },
         {
             text: '翻译',
-            href: '/projects'
+            href: '/translate'
         },
         {
             text: '博文',
