@@ -74,7 +74,7 @@ const siteConfig: SiteConfig = {
         },
         actions: [
             {
-                text: 'Get in Touch',
+                text: '与我联系',
                 href: '/contact'
             }
         ]
