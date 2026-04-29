@@ -5,7 +5,7 @@ publishDate: 'Mar 13 2026'
 isFeatured: true
 seo:
   image:
-    src: '../../assets/images/ccc trailer cover.jpg'
+    src: '../../assets/images/avatar.jpg'
 ---
 
 ![Project preview](../../assets/images/ccc trailer cover.jpg)
