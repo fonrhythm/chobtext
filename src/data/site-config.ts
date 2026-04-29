@@ -8,11 +8,11 @@ const siteConfig: SiteConfig = {
         src: avatar,
         alt: 'Ethan Donovan'
     },
-    title: 'Dante',
-    subtitle: 'Minimal Astro.js theme',
+    title: 'SomenStjerne',
+    subtitle: '对一切保持好奇心和探索欲 \n 分享泰国文化 在我眼里看到的泰国娱乐圈变化',
     description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
     image: {
-        src: '/dante-preview.jpg',
+        src: '/chobjaii-profile.jpg',
         alt: 'Dante - Astro.js and Tailwind CSS theme'
     },
     headerNavLinks: [
@@ -53,21 +53,21 @@ const siteConfig: SiteConfig = {
     ],
     socialLinks: [
         {
-            text: 'Dribbble',
-            href: 'https://dribbble.com/'
+            text: '小红书',
+            href: 'https://xhslink.com/m/1JIYxGNlQx'
+        },
+        {
+            text: 'Bilibili',
+            href: 'https://b23.tv/SMPcUYv'
         },
         {
             text: 'Instagram',
-            href: 'https://instagram.com/'
-        },
-        {
-            text: 'X/Twitter',
             href: 'https://twitter.com/'
         }
     ],
     hero: {
         title: 'Hi There & Welcome to My Corner of the Web!',
-        text: "I'm **Ethan Donovan**, a web developer at Amazing Studio, dedicated to the realms of collaboration and artificial intelligence.\nMy approach involves embracing intuition, conducting just enough research, and leveraging aesthetics as a catalyst for exceptional products.\nI have a profound appreciation for top-notch software, visual design, and the principles of product-led growth.\n\nFeel free to explore some of my coding endeavors on [GitHub](https://github.com/JustGoodUI/dante-astro-theme) or follow me on [Twitter/X](https://twitter.com/justgoodui).",
+        text: "我是**ChobJaii**，也是**SomenStjerne**。 我有很多“花名”，但无论通过哪个名字认识，都很开心你能来到我的个人空间。 目前我正处于持续进化和学习的状态，现在我主要在关注泰国泛娱乐内容， 从泰剧、泰乐到泰语及历史文化，我都在持续探索中。除了这个网页之外，欢迎去 [小红书](https://xhslink.com/m/1JIYxGNlQx) 也可以通过 [INSTAGRAM](https://www.instagram.com/somenstjerne?igsh=MTgwbHZ3MjlpM2Nibw%3D%3D&utm_source=qr).",来观看我喜欢的乐队现场视频。
         image: {
             src: hero,
             alt: 'A person sitting at a desk in front of a computer'
