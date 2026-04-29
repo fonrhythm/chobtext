@@ -1,7 +1,7 @@
 ---
 title: 关于合作
 seo:
-  title: 联系
+  title: 联系与合作
   description: Get in touch through email or social media! Let me know how I can help.
 ---
 
@@ -15,9 +15,7 @@ _社媒账号:_
 
 [⋆˚꩜｡ 小红书 ★](https://xhslink.com/m/1JIYxGNlQx).
 
-[◉°BiliBili ࣪𖤐](https://www.instagram.com/somenstjerne?igsh=MTgwbHZ3MjlpM2Nibw%3D%3D&utm_source=qr) 
-[LinkedIn](https://www.linkedin.com/).
+[◉°BiliBili ࣪𖤐](https://www.instagram.com/somenstjerne?igsh=MTgwbHZ3MjlpM2Nibw%3D%3D&utm_source=qr).
 
 
-[🅾𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦 ★](https://www.instagram.com/somenstjerne?igsh=MTgwbHZ3MjlpM2Nibw%3D%3D&utm_source=qr) 
-[LinkedIn](https://www.linkedin.com/).
+[🅾𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦 ★](https://www.instagram.com/somenstjerne?igsh=MTgwbHZ3MjlpM2Nibw%3D%3D&utm_source=qr) .
