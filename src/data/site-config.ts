@@ -9,7 +9,7 @@ const siteConfig: SiteConfig = {
         alt: 'Ethan Donovan'
     },
     title: 'SomenStjerne',
-    subtitle: '对一切保持好奇心和探索欲 \n 分享泰国文化 在我眼里看到的泰国娱乐圈变化',
+    subtitle: '对一切保持好奇心和探索欲 分享泰国文化 在我眼里看到的泰国娱乐圈变化',
     description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
     image: {
         src: '/chobjaii-profile.jpg',
@@ -67,7 +67,7 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         title: 'Hi There & Welcome to My Corner of the Web!',
-        text: "我是**ChobJaii**，也是**SomenStjerne**。 我有很多“花名”，但无论通过哪个名字认识，都很开心你能来到我的个人空间。 目前我正处于持续进化和学习的状态，现在我主要在关注泰国泛娱乐内容， 从泰剧、泰乐到泰语及历史文化，我都在持续探索中。除了这个网页之外，欢迎去 [小红书](https://xhslink.com/m/1JIYxGNlQx) 也可以通过 [INSTAGRAM](https://www.instagram.com/somenstjerne?igsh=MTgwbHZ3MjlpM2Nibw%3D%3D&utm_source=qr).来观看我喜欢的乐队现场视频。",
+        text: "我是**ChobJaii**，也是**SomenStjerne**。 \n我有很多“花名”，但无论通过哪个名字认识，都很开心你能来到我的个人空间。 目前我正处于持续进化和学习的状态，现在我主要在关注泰国泛娱乐内容， 从泰剧、泰乐到泰语及历史文化，我都在持续探索中。除了这个网页之外，欢迎去 [小红书](https://xhslink.com/m/1JIYxGNlQx) 也可以通过 [INSTAGRAM](https://www.instagram.com/somenstjerne?igsh=MTgwbHZ3MjlpM2Nibw%3D%3D&utm_source=qr).来观看我喜欢的乐队现场视频。",
         image: {
             src: hero,
             alt: 'A person sitting at a desk in front of a computer'
