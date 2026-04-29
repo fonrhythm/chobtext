@@ -62,12 +62,12 @@ const siteConfig: SiteConfig = {
         },
         {
             text: 'Instagram',
-            href: 'https://twitter.com/'
+            href: 'https://www.instagram.com/somenstjerne?igsh=MTgwbHZ3MjlpM2Nibw%3D%3D&utm_source=qr'
         }
     ],
     hero: {
         title: 'Hi There & Welcome to My Corner of the Web!',
-        text: "我是**ChobJaii**，也是**SomenStjerne**。 我有很多“花名”，但无论通过哪个名字认识，都很开心你能来到我的个人空间。 目前我正处于持续进化和学习的状态，现在我主要在关注泰国泛娱乐内容， 从泰剧、泰乐到泰语及历史文化，我都在持续探索中。除了这个网页之外，欢迎去 [小红书](https://xhslink.com/m/1JIYxGNlQx) 也可以通过 [INSTAGRAM](https://www.instagram.com/somenstjerne?igsh=MTgwbHZ3MjlpM2Nibw%3D%3D&utm_source=qr).",来观看我喜欢的乐队现场视频。
+        text: "我是**ChobJaii**，也是**SomenStjerne**。 我有很多“花名”，但无论通过哪个名字认识，都很开心你能来到我的个人空间。 目前我正处于持续进化和学习的状态，现在我主要在关注泰国泛娱乐内容， 从泰剧、泰乐到泰语及历史文化，我都在持续探索中。除了这个网页之外，欢迎去 [小红书](https://xhslink.com/m/1JIYxGNlQx) 也可以通过 [INSTAGRAM](https://www.instagram.com/somenstjerne?igsh=MTgwbHZ3MjlpM2Nibw%3D%3D&utm_source=qr).来观看我喜欢的乐队现场视频。",
         image: {
             src: hero,
             alt: 'A person sitting at a desk in front of a computer'
