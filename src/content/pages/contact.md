@@ -5,13 +5,13 @@ seo:
   description: Get in touch through email or social media! Let me know how I can help.
 ---
 
-目前我可以承接策划、执行、文案及运营类的工作，也非常期待与你一起探讨更多的可能性。
+目前我可以承接**策划、执行、文案及运营类**的工作，也非常期待与你一起探讨更多的可能性。
 如果你有任何项目需求或是有趣的创意内容，欢迎随时联系！
 
-_邮箱:_
+# **_邮箱:_**
 fonrhythm@gmail.com
 
-_社媒账号:_
+# **_社媒账号:_**
 
 [⋆˚꩜｡ 小红书 ★](https://xhslink.com/m/1JIYxGNlQx).
 
