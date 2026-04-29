@@ -14,7 +14,7 @@ fonrhythm@gmail.com
 _社媒账号:_
 [⋆˚꩜｡ 小红书 ★](https://xhslink.com/m/1JIYxGNlQx).
 
-[◉°BiliBili ⊹ . 𓃹. ݁ ⊹ . ݁˖](https://www.instagram.com/somenstjerne?igsh=MTgwbHZ3MjlpM2Nibw%3D%3D&utm_source=qr) 
+[◉°BiliBili ࣪𖤐](https://www.instagram.com/somenstjerne?igsh=MTgwbHZ3MjlpM2Nibw%3D%3D&utm_source=qr) 
 [LinkedIn](https://www.linkedin.com/).
 
 
